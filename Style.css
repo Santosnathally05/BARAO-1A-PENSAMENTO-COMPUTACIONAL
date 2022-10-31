@@ -7,4 +7,10 @@ body{
 .capa{
     width:100%
 }
-
+ul{
+    display:inline-block;
+    width: 40%;
+}
+.imagem-beneficio {
+    width: 30%;
+}
